@@ -1,0 +1,65 @@
+html {
+ background: #ffffcc;
+ height: 100%;
+ margin: 0px;
+ font: 16px Tahoma, Geneva,sans-serif;
+ }
+
+#menu{
+	background-color:#1f1f2e;
+	color: #ffffff;
+	margin:auto;
+	max-width: 95%;
+	text-align: center;
+    	padding: 5px 100px 5px 100px;
+    	text-decoration: none;}
+
+#menu a:link, #menu a:visited {
+		padding: 0px 2px 0px 2px;
+		color: white;
+		outline:0px;
+		background-color:#1f1f2e;
+		margin: 0px 50px 0px 50px;}
+#menu a:hover, #menu a:active {
+		padding:0px 2px 0px 2px;
+		color: white;
+		background-color: #47476b;
+		margin:0px 50px 0px 50px;}
+
+
+
+#headerpic{
+	background-image:url(WebsiteHeader.jpg);
+	position:center;
+	background-repeat:no-repeat;
+	max-width:95%;
+	height:354px;
+	margin:auto;	
+	}
+
+.box {
+ background:white;
+ -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+ -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+ box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+ border: 1px solid #bbbbbb;
+ border-radius: 5px;
+ display: block;
+ margin:auto;
+ max-width:95%;
+ padding: 6px 6px 6px 6px;
+}
+a:link, a:visited {
+ padding: 0px 2px 0px 2px;
+ color: black;
+ outline: 0px;
+ text-decoration: none;
+ }
+a:hover,  a:active {
+background: #1f1f2e;
+ border-radius: 3px;
+ padding: 0px 2px 0px 2px;
+ color: white;
+ outline: 0px;
+ text-decoration: none;
+}
