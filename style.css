@@ -30,7 +30,7 @@ html {
 
 #headerpic{
 	background-image:url(WebsiteHeader.jpg);
-	position:center;
+	position:relative;
 	background-repeat:no-repeat;
 	max-width:95%;
 	height:354px;
