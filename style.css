@@ -36,7 +36,8 @@ height:325px;
 top:10px;
 margin: auto;
 background-image:url(WebsiteHeader.jpg);
-background-repeat:no-repeat;	
+background-repeat:no-repeat;
+padding: 0px 0px 50px 0px;
 	}
 
 .box {
@@ -64,4 +65,3 @@ background: #1f1f2e;
  color: white;
  outline: 0px;
  text-decoration: none;
-}
