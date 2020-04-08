@@ -29,12 +29,13 @@ html {
 
 
 #headerpic{
-	background-image:url(WebsiteHeader.jpg);
 	position:relative;
-	background-repeat:no-repeat;
-	max-width:95%;
-	height:354px;
-	margin:auto;	
+width:670px;
+height:325px;
+top:10px;
+margin-left: 0px;
+background-image:url(WebsiteHeader.jpg);
+background-repeat:no-repeat;	
 	}
 
 .box {
