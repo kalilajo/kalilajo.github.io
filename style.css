@@ -14,13 +14,13 @@ html {
     	padding: 5px 100px 5px 100px;
     	text-decoration: none;}
 
-#nav a:link, #menu a:visited {
+#nav a:link, #nav a:visited {
 		padding: 0px 2px 0px 2px;
 		color: white;
 		outline:0px;
 		background-color:#1f1f2e;
 		margin: 0px 50px 0px 50px;}
-#nav a:hover, #menu a:active {
+#nav a:hover, #nav a:active {
 		padding:0px 2px 0px 2px;
 		color: white;
 		background-color: #47476b;
@@ -54,7 +54,7 @@ padding: 0px 0px 50px 0px;
 }
 a:link, a:visited {
  padding: 0px 2px 0px 2px;
- color: white;
+ color: black;
  outline: 0px;
  text-decoration: none;
  }
