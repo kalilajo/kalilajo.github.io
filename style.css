@@ -5,7 +5,7 @@ html {
  font: 16px Tahoma, Geneva,sans-serif;
  }
 
-#menu{
+#nav{
 	background-color:#1f1f2e;
 	color: #ffffff;
 	margin:auto;
@@ -14,13 +14,13 @@ html {
     	padding: 5px 100px 5px 100px;
     	text-decoration: none;}
 
-#menu a:link, #menu a:visited {
+#nav a:link, #menu a:visited {
 		padding: 0px 2px 0px 2px;
 		color: white;
 		outline:0px;
 		background-color:#1f1f2e;
 		margin: 0px 50px 0px 50px;}
-#menu a:hover, #menu a:active {
+#nav a:hover, #menu a:active {
 		padding:0px 2px 0px 2px;
 		color: white;
 		background-color: #47476b;
